@@ -15,4 +15,4 @@ https://tinyurl.com/y7nle7m2
 
 ### Support or Contact
 
-Having trouble with App or do you have any suggestion for improving it? Pleaes send us an email to kpittech1@gmail.com and will be more than happy to help you out. 
+Having trouble with the App or do you have any suggestion for improving it? Pleaes send us an email to kpittech1@gmail.com and will be more than happy to help you out. 
