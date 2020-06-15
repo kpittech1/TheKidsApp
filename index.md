@@ -1,37 +1,18 @@
 ## Welcome to TheKidsApp
 
-You can use the [editor on GitHub](https://github.com/kpittech1/TheKidsApp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to TheKidsApp – an app which is solely created for learning and entertaining the young once. Keeping their curious minds occupied is one of the most difficult things for parents. Our app is created keeping safety in mind for kids, the content in the app is all kids friendly and fun. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The app contains several eBooks of animals, birds, vehicles with their names and sounds. Which makes things really interesting for kids. There are other several books for shapes, colours, objects, fruits, vegetables, numbers, alphabets etc. Will keep updating the app with new contents every now and then. 
 
-### Markdown
+This app helps the kids to develop the basic understanding and logic of the things around them and the kids love it too. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### For our privacy policy please click the below link
 
-- Bulleted
-- List
+https://tinyurl.com/y7nle7m2 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kpittech1/TheKidsApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with App or do you have any suggestion for improving it? Pleaes send us an email to kpittech1@gmail.com and will be more than happy to help you out. 
