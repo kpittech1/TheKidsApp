@@ -1,4 +1,4 @@
-## Welcome to TheKidsApp
+## Welcome to TheKidzApp
 
 Welcome to TheKidsApp – an app which is solely created for learning and entertaining the young once. Keeping their curious minds occupied is one of the most difficult things for parents. Our app is created keeping safety in mind for kids, the content in the app is all kids friendly and fun. 
 
